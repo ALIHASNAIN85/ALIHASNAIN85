@@ -1,8 +1,3 @@
-
-Fiaz Bhatti <fiazhussain0341@gmail.com>
-9:06 AM (0 minutes ago)
-to me
-
 ![logo](https://github.com/ehtisham40/ehtisham40/blob/main/bg%20(1).png?raw=true)
  <h1 align="center">Hi 👋, I'm ALI HASNAIN</h1>
 <h3 align="center">A passionate full Stag developer from Pakistan</h3>
